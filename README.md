@@ -1,1 +1,1 @@
-# RIKA-XMD-PAIR
+# PAIR-WEB-SC
